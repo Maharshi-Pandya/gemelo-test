@@ -79,3 +79,15 @@ Here $threshold$ can be higher float value representing the confidence threshold
 > We give higher priority to `moondreamv2` for lower AgeNet confidence, due to the success of the VLM architecture.
 
 Time taken: 30 minutes
+
+# References
+
+- [MTCNN in brief](https://towardsdatascience.com/robust-face-detection-with-mtcnn-400fa81adc2e)
+
+- [MTCNN paper](https://arxiv.org/abs/1604.02878)
+
+- [Face detection using OpenCV](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
+
+- [Age Net](https://talhassner.github.io/home/publication/2015_CVPR)
+
+- [Moondreamv2: from a community member](https://x.com/vikhyatk/status/1764793494311444599?s=20)
