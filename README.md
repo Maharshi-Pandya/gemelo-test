@@ -33,7 +33,7 @@ From a quick research I found 3 options for the first step:
 
 I decided to go with MTCNN, due to it's accuracy and faster performance speed.
 
-For age prediction, I came across `Age Net` model which is based on AlexNet architecture for predicting/classifying the age range of a particular human face.
+For age prediction, I came across an older `Age Net` model which is based on CNN architecture for predicting/classifying the age range of a particular human face.
 
 Considering that a person with age 0-14 is a child, I check this condition in the code.
 
@@ -89,5 +89,7 @@ Time taken: 30 minutes
 - [Face detection using OpenCV](https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
 
 - [Age Net](https://talhassner.github.io/home/publication/2015_CVPR)
+
+- [Age and Gender classification](https://gist.github.com/GilLevi/c9e99062283c719c03de)
 
 - [Moondreamv2: from a community member](https://x.com/vikhyatk/status/1764793494311444599?s=20)
